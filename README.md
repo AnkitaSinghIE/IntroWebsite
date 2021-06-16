@@ -1,2 +1,2 @@
 # IntroWebsite
-this file has a introduction about Ankita Singh
+This file has an introduction about Ankita Singh
